@@ -8,19 +8,15 @@ a {
     color: unset;
     background-color: transparent;
     text-decoration: none;
-}
+  }
 
-.pc{
+.pc {
   display: none;
 }
-
-.womanimg
-{
+.womanimg {
   background-image: none;
 }
-
-.info{
-
+.info {
   padding: 20px 0;
   text-align: right;
   border-bottom: solid 1px orange;
@@ -31,52 +27,43 @@ a {
   left: 50%;
   height: 33px;
 }
-.info ul{
+.info ul {
   overflow: hidden;
   margin-top: 10px;
 
 }
-
-.info h2{
+.info h2 {
   font-size: 14px;
   font-family: 'Roboto', sans-serif;
   font-weight:normal ;
   color: white;
 }
-
-.info p{
+.info p {
   font-size: 16px;
   color: white;
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
 }
-
-.hotline{
+.hotline {
   float: right;
 }
-
-.hotline img{
+.hotline img {
   float: left;
 }
-
-.hotline p{
+.hotline p {
   float: right;
 }
-
-.mainhead{
+.mainhead {
   width: 89%;
   position: relative;
   left: 5.5%;
   top: 38px;
 }
-
-.bgmenu img{
+.bgmenu img {
   position: relative;
   top: 10px;
 }
-
-.googleinput
-{
+.googleinput {
   display:block;
   border:none;
   border-bottom: 1px solid rgba(255,255,255, 0.5);
@@ -86,11 +73,8 @@ a {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   text-indent: 8px;
-
 }
-
-.gobtn
-{
+.gobtn {
   position: relative;
   bottom: 29px;
   left: 48px;
@@ -106,7 +90,6 @@ a {
   border: 1px solid #ffb400;
   cursor: pointer;
 }
-
 .sidenav {
     height: auto;
     width: 0;
@@ -119,7 +102,6 @@ a {
     transition: 1s;
     padding-top: 60px;
 }
-
 .sidenav a {
     padding: 8px 8px 8px 12px;
     text-decoration: none;
@@ -129,40 +111,31 @@ a {
     display: block;
     text-align: left;
 }
-
-.slidemenu li
-{
+.slidemenu li {
   margin-top: 10px;
 }
 
 .sidenav a:hover {
     color: #f1f1f1;
 }
-
 .sidenav .closebtn {
     position: absolute;
     top: 0;
     right: 16px;
     font-size: 36px;
 }
-
-.sidesub1
-{
+.sidesub1 {
   display: none;
 }
-
-
-.mainhead img{
+.mainhead img {
   float: left;
 }
-
-.mainhead h1{
+.mainhead h1 {
   float: right;
   position: relative;
   top: 8px;
 }
-
-.banner{
+.banner {
   background-image: url("../images/banner1.jpg");
   background-position: -256px;
   background-repeat: no-repeat;
@@ -171,15 +144,14 @@ a {
   padding-top: 171px;
   background-attachment: fixed;
 }
-.c1{
+.c1 {
   font-size: 16px;
   color: #ffb400;
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
   margin-right: 5px;
 }
-
-.shape2{
+.shape2 {
   width: 500px;
   height:223px;
   background: rgba(0, 0, 0, 0.5);
@@ -188,24 +160,21 @@ a {
   padding-top: 20px;
   border-bottom: solid 4px #ffb400;
 }
-
-.shape2 h2{
+.shape2 h2 {
   font-size: 16px;
   font-family: 'Roboto', sans-serif;
   font-style: italic;
   color: white;
   text-indent: 25px;
 }
-
-.shape2 h3{
+.shape2 h3 {
   font-size: 30px;
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
   color: white;
   text-indent: 15px;
 }
-
-.shape2 p{
+.shape2 p {
   font-size: 14px;
   font-family: 'Roboto', sans-serif;
   font-weight:normal ;
@@ -213,13 +182,10 @@ a {
   margin-left: 25px;
   padding-top: 17px;
 }
-
-.shape2 h3 span
-{
+.shape2 h3 span {
   margin-left: 26px;
 }
-
-.button1{
+.button1 {
   background-color: #ffb400;
   border: none;
   color: white;
@@ -233,8 +199,7 @@ a {
   bottom: 198px; */
   margin-top: 25px;
 }
-
-.shape3{
+.shape3 {
   /* width:500px; */
   height:141px;
   background-image: url("../images/banner2.jpg");
@@ -244,8 +209,7 @@ a {
   margin-top: 50px;
 
 }
-
-.shape3 h3{
+.shape3 h3 {
   color: white;
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
@@ -253,9 +217,7 @@ a {
   padding-top: 23px;
 
 }
-
-
-.button2{
+.button2 {
   background-image: url(../images/banner2.jpg);
   border-style: solid;
   border-color: white;
@@ -268,15 +230,13 @@ a {
   position: relative;
   bottom: -7px;
 }
-
-.work img{
+.work img {
   width: 93%;
   margin: 0 auto;
   padding-left: 0px;
   margin-top: 50px;
 }
-
-.shape4{
+.shape4 {
   background-color: white;
   width: 93%;
   margin: 0 auto;
@@ -286,18 +246,16 @@ a {
   -webkit-box-shadow: 3px 3px 5px 0px rgba(181,179,181,1);
   -moz-box-shadow: 3px 3px 5px 0px rgba(181,179,181,1);
   box-shadow: 3px 3px 5px 0px rgba(181,179,181,1);
-
 }
 
-.shape4 p:first-child{
+.shape4 p:first-child {
   font-size: 16px;
   font-family: 'Roboto', sans-serif;
   font-weight: bold ;
   color: #213047;
   margin-left: 10px;
 }
-
-.shape4 p:nth-child(2){
+.shape4 p:nth-child(2) {
   font-size: 14px;
   font-family: 'Roboto', sans-serif;
   font-weight:normal ;
@@ -305,8 +263,7 @@ a {
   padding-top: 13px;
   margin-left: 10px;
 }
-
-.shape4 p:last-child{
+.shape4 p:last-child {
   font-size: 12px;
   font-family: 'Roboto', sans-serif;
   font-weight:normal ;
@@ -314,15 +271,12 @@ a {
   padding-top: 25px;
   margin-left: 10px;
 }
-
-.featured{
+.featured {
   background-color: #213047;
   margin-top: 50px;
   padding-bottom: 46px;
 }
-
-
-.sect1 h2{
+.sect1 h2 {
   font-size: 16px;
   font-family: 'Roboto', sans-serif;
   font-style: italic;
@@ -330,8 +284,7 @@ a {
   text-indent: 17px;
   padding-top: 55px;
 }
-
-.sect1 h3{
+.sect1 h3 {
   font-size: 30px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
@@ -339,8 +292,7 @@ a {
   text-indent: 7px;
   padding-top: 2px;
 }
-
-.sect1 ul{
+.sect1 ul {
   font-size: 14px;
   font-family: 'Montserrat', sans-serif;
   font-weight:normal ;
@@ -351,52 +303,38 @@ a {
   margin-bottom: 25px;
   margin-left: 16px;
   overflow: hidden;
-
-
 }
-
-.sect1 li{
+.sect1 li {
   padding-right: 21px;
   float: left;
   margin-top: 15px;
-
 }
-
-.sect1 ul:nth-child(2){
+.sect1 ul:nth-child(2) {
   padding-bottom: 10px;
 }
-
-.sect2{
+.sect2 {
   margin-top: 40px;
 }
-
-.sect2 ul{
+.sect2 ul {
   width: 100%;
   margin: 0 auto;
-
 }
-
-.sect2 img{
+.sect2 img {
   margin-bottom: -4px;
   width: 100%;
 }
-
-
-.aboutus1{
+.aboutus1 {
   background-image: url("../images/brick.jpg");
   height: 860px;
-
 }
-
-.workssvg{
+.workssvg {
   margin-top: 0px;
   position: unset;
   width: unset;
   margin: 0;
   padding-top: 0px;
 }
-
-.aboutus1 h2{
+.aboutus1 h2 {
   font-size: 16px;
   font-family: 'Roboto', sans-serif;
   font-style: italic;
@@ -404,8 +342,7 @@ a {
   text-indent: 17px;
   padding-top: 65px;
 }
-
-.aboutus1 h3{
+.aboutus1 h3 {
   font-size: 30px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
@@ -414,24 +351,21 @@ a {
   padding-top: 2px;
   padding-bottom: 25px;
 }
-
-.aboutus1 h4{
+.aboutus1 h4 {
   color: #3a4d6a;
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   margin-top: -33px;
   margin-left: 85px;
 }
-
-.aboutus1 p{
+.aboutus1 p {
   color: #61728d;
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   margin-top: 13px;
   padding-left: 85px;
 }
-
-.aboutus1 li{
+.aboutus1 li {
   height: 150px;
   width: 93%;
   background-color: white;
@@ -439,33 +373,26 @@ a {
   width: 93%;
   margin: 0 auto;
   margin-bottom: 20px;
-
-
 }
-
-.sq{
+.sq {
   height: 70px;
   width: 70px;
   background-color: #61728d;
   position: relative;
   top: 37px;
 }
-
-.videolink iframe{
+.videolink iframe {
    width=93%;
    padding-left: 6px;
-
 }
-
-.worklist img{
+.worklist img {
   margin-top: 10px;
   position: absolute;
   width: 95%;
   margin: 0 auto;
   padding-top: 13px;
 }
-
-.chooseus h2{
+.chooseus h2 {
   font-size: 16px;
   font-family: 'Roboto', sans-serif;
   font-style: italic;
@@ -473,8 +400,7 @@ a {
   text-indent: 17px;
   padding-top: 65px;
 }
-
-.chooseus h3{
+.chooseus h3 {
   font-size: 30px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
@@ -483,8 +409,7 @@ a {
   padding-top: 2px;
   padding-bottom: 25px;
 }
-
-.chooseus h4{
+.chooseus h4 {
   font-size: 18px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
@@ -492,10 +417,8 @@ a {
   width: 93%;
   margin: 0 auto;
   padding-bottom: 14px;
-
 }
-
-.chooseus p{
+.chooseus p {
   font-family: 'Roboto', serif;
   font-size: 14px;
   font-weight: 400;
@@ -504,11 +427,8 @@ a {
   width: 93%;
   margin: 0 auto;
   padding-bottom: 15px;
-
 }
-
-.videolink{
-
+.videolink {
   width: 93%;
   margin: 0 auto;
   margin-left: 25px;
@@ -516,14 +436,11 @@ a {
   margin-top: 32px;
   margin-bottom: -40px;
 }
-
-.videolink img{
-
+.videolink img {
   /* background-size: contain; */
   height: 175px;
 }
-
-.button3{
+.button3 {
   background-color: #ffb400;
   font-family: 'Montserrat', sans-serif;
   border: none;
@@ -534,8 +451,7 @@ a {
   font-size: 14px;
   margin-left: 13px;
 }
-
-.descp2{
+.descp2 {
   height: 275px;
   background-image: url(../images/crane.jpg);
   background-size: cover;
@@ -545,8 +461,7 @@ a {
   margin-top: 30px;
   background-position: 50%;
 }
-
-.descp2 h2{
+.descp2 h2 {
   font-size: 18px;
   font-family: 'Roboto', sans-serif;
   font-style: italic;
@@ -554,18 +469,15 @@ a {
   padding-top: 65px;
   text-align: center;
   padding-bottom: 11px;
-
 }
-
-.descp2 h3{
+.descp2 h3 {
   font-size: 26px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   color: #213047;
   text-align: center;
 }
-
-.descp2 h4{
+.descp2 h4 {
   font-size: 14px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
@@ -573,12 +485,10 @@ a {
   text-align: center;
   letter-spacing: 2px;
 }
-
-.dtext{
+.dtext {
   padding-right: 35px;
 }
-
-.button4{
+.button4 {
   background-color:white;
   font-family: 'Montserrat', sans-serif;
   border: none;
@@ -590,12 +500,10 @@ a {
   margin-left: 62px;
   margin-top: 25px;
 }
-
-.news{
+.news {
   margin-top: 42px;
 }
-
-.news h2{
+.news h2 {
   font-size: 18px;
   font-family: 'Roboto', sans-serif;
   font-style: italic;
@@ -605,16 +513,14 @@ a {
   padding-bottom: 11px;
   font-weight: 400;
 }
-
-.news h3{
+.news h3 {
   font-size: 26px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   color: #213047;
   text-align: center;
 }
-
-.news h4{
+.news h4 {
   font-size: 14px;
   font-family: 'Roboto', serif;
   font-weight: 400;
@@ -622,11 +528,8 @@ a {
   color: #61728d;
   margin-left: 13px;
   margin-top: 15px;
-
-
 }
-
-.news h5{
+.news h5 {
   font-size: 16px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
@@ -634,8 +537,7 @@ a {
   text-indent: 13px;
   margin-top: 7px;
 }
-
-.news h6{
+.news h6 {
   font-size: 12px;
   font-family: 'Roboto', serif;
   color: #61728d;
@@ -643,35 +545,30 @@ a {
   border-right: 1px solid black;
   padding: 0 15px;
 }
-
-.news h6:last-child{
+.news h6:last-child {
   border-right: none;
 }
-
-.newsblock img{
+.newsblock img {
   width: 93%;
   margin: 0 auto;
   padding-left: 14px;
   position: relative;
   top: 34px;
 }
-
-.newsinfo{
+.newsinfo {
   margin-top: 30px;
   background-color: #e0e0e0;
   padding: 20px 0px;
   width: 93%;
   margin-left: 14px;
 }
-
-.date{
+.date {
   font-size: 12px;
   font-family: 'Montserrat', sans-serif;
   color: #ffb400;
   font-weight: 700;
 }
-
-.newsbox{
+.newsbox {
   background-color: white;
   width: 93%;
   margin: 0 auto;
@@ -682,25 +579,21 @@ a {
   -moz-box-shadow: 3px 3px 5px 0px rgba(181,179,181,1);
   box-shadow: 3px 3px 5px 0px rgba(181,179,181,1);
 }
-
-.testimonial{
+.testimonial {
   background-color: #213047;
   width: 100%;
   position: relative;
   bottom: 35px;
 }
-
-.testimonial h3{
+.testimonial h3 {
   font-size: 14px;
   font-family: 'Roboto', serif;
   font-weight: 400;
   color: white;
   text-align: center;
   padding-top: 162px;
-
 }
-
-.testimonial h4{
+.testimonial h4 {
   font-size: 13px;
   font-family: 'Roboto', serif;
   font-style: italic;
@@ -709,9 +602,7 @@ a {
   text-align: center;
   padding-top: 10px;
 }
-
-
-.testimonial p{
+.testimonial p {
   font-size: 16px;
   font-family: 'Roboto', serif;
   font-style: italic;
@@ -722,8 +613,7 @@ a {
   width: 91%;
   padding-top: 35px;
 }
-
-.guy{
+.guy {
   height: 105px;
   width: 105px;
   background-color: white;
@@ -734,22 +624,19 @@ a {
   left: 130px;
   margin-top: 37px;
 }
-
-.testimonial .images{
+.testimonial .images {
   display: inline-flex;
   margin-top: 70px;
   margin-bottom: 50px;
   padding-left: 16px;
 }
-
-.contact{
+.contact {
   background-image: url("../images/ruler.jpg");
   background-repeat: no-repeat;
   margin-top: -36px;
   background-size: cover;
 }
-
-.contact h2{
+.contact h2 {
   font-size: 18px;
   font-family: 'Montserrat', sans-serif;
   color: #3a4d6a;
@@ -757,18 +644,15 @@ a {
   text-align: center;
   padding-top: 45px;
 }
-
-.contact ul{
+.contact ul {
   font-size: 14px;
   font-family: 'Roboto', serif;
   font-weight: 400;
   color: #61728d;
   text-align: center;
   padding-bottom: 40px;
-
 }
-
-.circle{
+.circle {
   height: 36px;
   width: 36px;
   border-radius: 40px;
@@ -776,17 +660,14 @@ a {
   position: relative;
   left: 50px;
   top: 29px;
-
 }
-
-.contact img
-{padding: 6px;}
-
-.aboutus2{
+.contact img {
+  padding: 6px;
+}
+.aboutus2 {
   background-color: #213047;
 }
-
-.aboutus2 h2{
+.aboutus2 h2 {
   font-size: 16px;
   font-family: 'Montserrat', sans-serif;
   color: white;
@@ -796,8 +677,7 @@ a {
   padding-top: 45px;
   padding-bottom: 25px;
 }
-
-.aboutus2 p{
+.aboutus2 p {
   font-size: 14px;
   font-family: 'Roboto', serif;
   font-weight: 400;
@@ -806,8 +686,7 @@ a {
   margin: 0 auto;
   line-height: 24px;
 }
-
-.social .circle{
+.social .circle {
   height: 36px;
   width: 36px;
   border-radius: 40px;
@@ -817,31 +696,22 @@ a {
   left: 13px;
   border: none;
 }
-
-
-.social ul{
+.social ul {
   display: flex;
 }
-
-.social img{
+.social img {
   padding: 8px;
   opacity: 0.8;
 }
-
-.social img:hover
-{
+.social img:hover {
   opacity: 1;
 }
-
-.recentnews{
+.recentnews {
   background-color: #213047;
   padding-bottom: 50px;
   margin-top: -1px;
-
-
 }
-
-.recentnews h2{
+.recentnews h2 {
   font-size: 16px;
   font-family: 'Montserrat', sans-serif;
   color: white;
@@ -849,10 +719,8 @@ a {
   width: 93%;
   margin: 0 auto;
   padding-top: 45px;
-
 }
-
-.recentnews h3{
+.recentnews h3 {
   font-size: 12px;
   font-family:'Roboto', serif;
   font-weight: 400;
@@ -863,26 +731,22 @@ a {
   padding-bottom: 15px;
   padding-left: 14px;
 }
-
-.recentnews p{
+.recentnews p {
   font-size: 14px;
   font-family: 'Montserrat', sans-serif;
   color: #fff5dd;
   width: 93%;
   margin: 0 auto;
   padding-left: 10px;
-
 }
-
-.recentnews .date{
+.recentnews .date {
   font-size: 12px;
   font-family:'Montserrat', sans-serif;
   color: #ffb400;
   letter-spacing: 1px;
   padding-left: 5px;
 }
-
-.rnews1{
+.rnews1 {
   display: flex;
   width: 93%;
   margin: 0 auto;
@@ -890,24 +754,20 @@ a {
   border-color: rgba(255, 255, 255, 0.2);
   padding-bottom: 22px;
 }
-
-.rnews2{
+.rnews2 {
   display: flex;
   width: 93%;
   margin: 0 auto;
 }
-
-.recentnews .bookmarks{
+.recentnews .bookmarks {
   position: relative;
   right: 7px;
   top: 4px;
 }
-
-.newsletter{
+.newsletter {
   background-color: #213047;
 }
-
-.newsletter h2{
+.newsletter h2 {
   font-size: 16px;
   font-family: 'Montserrat', sans-serif;
   color: white;
@@ -916,10 +776,8 @@ a {
   margin: 0 auto;
   padding-top: 45px;
   padding-bottom: 25px;
-
 }
-
-.newsletter h3{
+.newsletter h3 {
   font-size: 14px;
   font-family:'Roboto', serif;
   font-weight: 400;
@@ -927,8 +785,7 @@ a {
   width: 93%;
   margin: 0 auto;
 }
-
-.newsletter h4{
+.newsletter h4 {
   font-size: 14px;
   font-family:'Roboto', serif;
   font-weight: 400;
@@ -938,8 +795,7 @@ a {
   padding-bottom: 10px;
   padding-top: 30px;
 }
-
-.textinput{
+.textinput {
   display:block;
   border:none;
   border-bottom: 1px solid rgba(255,255,255, 0.5);
@@ -949,8 +805,7 @@ a {
   font-size: 15px;
   color: white;
 }
-
-.button5{
+.button5 {
   background-color: #ffb400;
   font-family: 'Montserrat', sans-serif;
   border: none;
@@ -965,21 +820,18 @@ a {
   margin-top: 30px;
   margin-bottom: 50px;
 }
-
-.base{
+.base {
   background-color: #1a2638;
   padding-bottom: 40px;
   text-align: center;
 }
-
-.base small{
+.base small {
   font-family: 'Roboto', serif;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.7);
   position: relative;
   top: 20px;
 }
-
 #back2Top {
   width: 40px;
   line-height: 40px;
@@ -1008,114 +860,89 @@ a {
 
 @media only screen and (min-width:767px)
 {
-  .pc
-  {
+  .pc {
    display:none;
   }
-
-  .womanimg
-  {
+  .womanimg {
     background-image: none;
   }
-
-    .mainhead{
-      bottom: 70px;
-    }
-
-    .banner{
-      width: 100%;
-      padding-bottom: 28px;
-      background-position: unset;
-    }
-    .button1{
+   .mainhead {
+     bottom: 70px;
+   }
+   .banner {
+     width: 100%;
+     padding-bottom: 28px;
+     background-position: unset;
+   }
+    .button1 {
       margin-left: -1px;
       margin-top: 32px;
     }
-    .shape2{
+    .shape2 {
       height: 200px;
       top: 35px;
     }
-
-    .shape2 h3{
+    .shape2 h3 {
       font-size: 40px;
       margin-left: 0px;
     }
-
-    .shape2 h3 span
-    {
+    .shape2 h3 span {
       margin-left: 0px;
     }
-
-    .shape2 p{
+    .shape2 p {
       font-size: 17px;
       padding-top: 21px;
       word-spacing: 13px;
     }
-
-
-    .button2{
+    .button2 {
       left: 297px;
       bottom: 311px;
       position: absolute;
     }
-
-    .shape3{
+    .shape3 {
       height: 125 px;
       width: 100%;
       margin-top: 0px;
     }
-
-    .work img{
+    .work img {
       padding-left: 0px;
     }
-
-    .sect1 ul{
+    .sect1 ul {
       font-size: 16px
     }
-
-    .sect2 img{
+    .sect2 img {
       width: 100%;
     }
-
-    .videolink iframe{
+    .videolink iframe {
       height: 400px;
       width: 100%;
     }
-
-    .button3{
+    .button3 {
       margin-left: 25px;
     }
-
-    .button4{
+    .button4 {
       margin-left: 277px;
     }
-
-    .newsblock img{
+    .newsblock img {
     padding-left: 26px;
     height: 400px;
     }
-
-    .newsbox{
+    .newsbox {
       margin-left: 19px;
     }
-
-    .newsinfo{
+    .newsinfo {
       margin-left: 25px;
     }
-
-    .newsinfo h6{
+    .newsinfo h6 {
       font-size: 16px;
     }
-
-    .newsinfo h6:first-child{
+    .newsinfo h6:first-child {
       padding-left: 194px;
     }
-
-    .guy{
+    .guy {
       left: 329px;
     }
-
-    .testimonial .images{
+    .testimonial .images {
        display: inline-flex;
        margin-top: 70px;
        margin-bottom: 50px;
@@ -1130,7 +957,6 @@ a {
       left: 261px;
       top: 34px;
     }
-
    .button5 {
      background-color: #ffb400;
      font-family: 'Montserrat', sans-serif;
@@ -1146,106 +972,80 @@ a {
      margin-top: 30px;
      margin-bottom: 50px;
    }
-
 }
 
 @media only screen and (min-width:1260px) {
   .pc {
    display:block;
   }
-
-  .scroll
-  {
+  .scroll {
     width: 1200px;
     margin: 0 auto;
   }
-
-
-
-    a:link{
+    a:link {
       text-decoration: none;
     }
-    .link1 a:hover{
+    .link1 a:hover {
       color: #ffb400
     }
-
-    a:hover{
+    a:hover {
       color: #ffb400
     }
-
-    .banner{
+    .banner {
       background-position-y: -197px;
     }
-
-    .bgmenu{
+    .bgmenu {
      display:none;
     }
-
-    .slidemenu{
+    .slidemenu {
       display: none;
     }
-
-    .info{
+    .info {
       transform: unset;
       left: unset;
     }
-
-    .info h2{
+    .info h2 {
       margin-top: 5px;
     }
-
-    .hotline{
+    .hotline {
       margin-left: 340px;
     }
-
-    .hotline p{
+    .hotline p {
       margin-left: 14px;
     }
-
-    .testnav{
+    .testnav {
       width: 1200px;
       margin: 0 auto;
     }
-
-    .infonav{
+    .infonav {
       margin-left: 70px;
     }
-
-    .infonav li{
+    .infonav li {
       float: left;
     }
-
-    .infonav li:first-child img{
+    .infonav li:first-child img {
       float: left;
     }
-
-    .infonav li:first-child h2{
+    .infonav li:first-child h2 {
       width: 124%;
     }
-
-    .infonav li:nth-child(2) img{
+    .infonav li:nth-child(2) img {
       float: left;
     }
-
-
-    .infonav li:nth-child(2){
+    .infonav li:nth-child(2) {
       margin-left: 75px
     }
-
-    .infonav li:nth-child(2) h2{
+    .infonav li:nth-child(2) h2 {
       width: 114%;
     }
-
-    .mainhead img{
+    .mainhead img {
       margin-top: 10px;
     }
-
-    .mainhead h1{
+    .mainhead h1 {
       float: left;
       position: unset;
     }
-
-    .mainnav{
+    .mainnav {
       font-family: 'Montserrat', sans-serif;
       font-size: 13px;
       font-weight: 700;
@@ -1255,26 +1055,20 @@ a {
       overflow: hidden;
       top: 42px;
     }
-
-    .mainnav>li{
+    .mainnav>li {
       float: left;
       margin-right: 70px;
-
     }
-
-    .mainnav ul li{
-
+    .mainnav ul li {
     }
-
-    .submenu{
+    .submenu {
       display: none;
       line-height: 31px;
       position: relative;
       left: 48px;
       z-index: 1;
     }
-
-    .submenu li{
+    .submenu li {
       font-family: 'Montserrat', sans-serif;
       font-size: 13px;
       font-weight: 700;
@@ -1282,66 +1076,53 @@ a {
       background-color: white;
       margin-top: 1px;
     }
-
-    .mainnav li:first-child:hover .submenu{
+    .mainnav li:first-child:hover .submenu {
        display: block;
        width: 147px;
       text-align: center;
     }
-
-
-    .amain li{
+    .amain li {
        margin-right: 82px;
      }
-
-    .button1{
+    .button1 {
       position: relative;
       top: 7px;
       cursor: pointer;
-
     }
-
-    .shape2{
+    .shape2 {
       right: 150px;
       width: 57%;
       position: relative;
     }
-
-    .shape2 p{
+    .shape2 p {
       width: 83%;
       font-size: 14px;
       font-style: normal;
       font-weight: 400;
     }
-
-    .shape2 h3{
+    .shape2 h3 {
       margin-left: 0px;
     }
-
-    .button2{
+    .button2 {
       position: unset;
       float: right;
       margin-top: 49px;
       margin-right: 40px;
       cursor: pointer;
-
     }
-
-    .shape3{
+    .shape3 {
       width: 1200px;
       margin-top: 0px;
       position: relative;
       bottom: 65px;
       margin: 0 auto;
     }
-
-    .shape3 h3{
+    .shape3 h3 {
       text-indent: 36px;
       float: left;
       margin-top: 38px;
     }
-
-    .works{
+    .works {
       display: flex;
       margin: 50px;
       position: relative;
@@ -1349,206 +1130,154 @@ a {
       width: 1220px;
       margin: 0 auto;
     }
-
-    .work img{
+    .work img {
     padding-left: 0px;
     }
-
-    .shape4
-    {
+    .shape4 {
       min-height: 125px;
       height: unset;
     }
-
-    .featured{
+    .featured {
       padding-bottom: 100px;
     }
-
-    .sect1{
+    .sect1 {
       overflow: hidden;
       width: 1200px;
       margin: 0 auto;
     }
-
-    .sect1 h2{
-
+    .sect1 h2 {
     }
-
-    .sect1 h3{
+    .sect1 h3 {
       float: left;
       text-indent: 7px;
-
     }
-
-    .sect1 ul{
+    .sect1 ul {
       width: auto;
       float: right;
       margin-right: 44px;
     }
-
-    .sect2 ul li{
+    .sect2 ul li {
       width: 25%;
       float: left;
     }
-
-    .sect2 ul{
+    .sect2 ul {
       overflow: hidden;
       width: 100%;
     }
-
-    .sect2 img
-    {
+    .sect2 img {
       opacity: 0.5;
     }
-
-    .sect2 img:hover
-    {
+    .sect2 img:hover {
       transition: 0.6s;
       opacity: 1;
       border-bottom: 5px solid #ffb400;
-
     }
-
-    .aboutus1{
+    .aboutus1 {
       height: auto;
     }
-    .aboutus1 li{
+    .aboutus1 li {
       width: 400px;
       margin-left: 20px;
       margin-right: 20px;
       min-height: 140px;
     }
-
-    /* .aboutus1 h2{
-      text-indent: 21px;
-    } */
-
     .womanimg {
       background-image: url("../images/woman.png");
       height: 500px;
       background-position: right;
       background-repeat: no-repeat;
       }
-
-    .aboutus1align
-    {
+    .aboutus1align {
       width: 1200px;
       margin: 0 auto;
     }
-
-    .au1{
+    .au1 {
       display: flex;
     }
-
-    .au2{
+    .au2 {
       display: flex;
     }
-
     .worklist {
       width: 1200px;
     }
-
-    .worklist li:nth-child(2){
+    .worklist li:nth-child(2) {
       float: left;
     }
-
-    .worklist li:nth-child(4){
+    .worklist li:nth-child(4) {
       float: left;
     }
-
-    .chooseus{
+    .chooseus {
       display: flex;
       margin-bottom: 100px;
       width: 1200px;
       margin: 0 auto
     }
-
-    .videoinfo{
+    .videoinfo {
       margin-left: 10px;
     }
-
-    .button3{
+    .button3 {
       margin-top: 40px;
       margin-left: 18px;
       cursor: pointer;
 
     }
-
-    .descp2{
+    .descp2 {
       background-attachment: fixed;
     }
-
-    .dtext{
+    .dtext {
       width: 1200px;
       margin:0 auto;
     }
-
-    .descp2 h2{
+    .descp2 h2 {
       font-size: 22px;
     }
-    .descp2 h3{
+    .descp2 h3 {
       font-size: 52px;
     }
-
-    .descp2 h4{
+    .descp2 h4 {
       font-size: 22px;
     }
-
-    .button4{
+    .button4 {
       margin-left: 514px;
       cursor: pointer;
-
     }
-
-    .newsblock{
+    .newsblock {
       display: flex;
       margin-bottom: -71px;
       margin-right: 20px;
       width: 1200px;
       margin: 0 auto;
-
     }
-    .news1{
+    .news1 {
       display: block;
     }
-
-    .news3{
+    .news3 {
       width: 90%;
     }
-
     .newsblock img{
       height: 235px;
     }
-
-    .newsbox{
+    .newsbox {
       width: 376px;
     }
-
-    .news h6{
+    .news h6 {
       padding: 0px 11px;
     }
-
-    .newsinfo{
+    .newsinfo {
       text-align: center;
     }
-
-    .newsinfo h6:first-child{
+    .newsinfo h6:first-child {
       padding-left: 0px;
     }
-
-    .testimonial{
+    .testimonial {
       padding-bottom: 50px;
-
     }
-
-    .testinfo
-    {
+    .testinfo {
       width: 1200px;
       margin:0 auto;
       display: flex;
     }
-
-    .guy{
+    .guy {
     height: 122px;
     width: 260px;
     background-color: white;
@@ -1557,16 +1286,13 @@ a {
     left: 47px;
     top: 60px;
     background-repeat: no-repeat;
-      }
-
-    .guyinfo
-    {
+    }
+    .guyinfo {
       position: relative;
       bottom: 50px;
       right: 140px;
     }
-
-    .testimonial .images{
+    .testimonial .images {
       padding-left: 0px;
       padding-right: 20px;
       border-left: 1px solid white;
@@ -1574,86 +1300,62 @@ a {
       margin-bottom: 70px;
       margin-top: 120px;
     }
-
-    .testimonial p{
+    .testimonial p {
       width: 70%;
       text-align: left;
       position: relative;
       left: 136px;
     }
-
-    .testimonial h3{
-
+    .testimonial h3 {
     }
-
-    .testimonial h4{
-
+    .testimonial h4 {
     }
-
-    .contact_info
-    {
+    .contact_info {
       width: 1200px;
       margin: 0 auto;
     }
-
-    .social
-    {
+    .social {
       margin-top: 21px;
     }
-    .circle{
+    .circle {
       left: 482px;
     }
-
-    .footerrow{
+    .footerrow {
       background-color: #213047;
     }
-
-    .footerinfo
-    {
+    .footerinfo {
       display: flex;
       width: 1200px;
       margin: 0 auto;
     }
-
-    .aboutus2{
+    .aboutus2 {
       width: 33.33%;
       padding-right: 5px;
       padding-right: 5px;
       padding-left: 12px;
     }
-
-    .recentnews{
+    .recentnews {
       width: 33.33%;
     }
-
-    .recentnews img{
+    .recentnews img {
       opacity: 0.8;
     }
-
-    .rnews1:hover img
-    {
+    .rnews1:hover img {
       opacity: 1;
     }
-
-    .rnews2:hover img
-    {
+    .rnews2:hover img {
       opacity: 1;
     }
-
-    .newsletter{
+    .newsletter {
       width: 33.33%;
       padding-right: 12px;
     }
-
-    .button5{
+    .button5 {
       margin-left: 16px;
       cursor: pointer;
-
     }
-
-    .base{
+    .base {
       margin-top: -2px;
     }
-
 
 }
