@@ -858,8 +858,7 @@ a {
   color: #ffb400;
 }
 
-@media only screen and (min-width:767px)
-{
+@media only screen and (min-width: 767px) {
   .pc {
    display:none;
   }
@@ -974,7 +973,7 @@ a {
    }
 }
 
-@media only screen and (min-width:1260px) {
+@media only screen and (min-width: 1260px) {
   .pc {
    display:block;
   }
@@ -1357,5 +1356,4 @@ a {
     .base {
       margin-top: -2px;
     }
-
 }
