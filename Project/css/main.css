@@ -520,7 +520,7 @@ a {
   color: #213047;
   text-align: center;
 }
-.news h4 {
+.news h5{
   font-size: 14px;
   font-family: 'Roboto', serif;
   font-weight: 400;
@@ -529,7 +529,7 @@ a {
   margin-left: 13px;
   margin-top: 15px;
 }
-.news h5 {
+.news h4{
   font-size: 16px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
@@ -537,7 +537,7 @@ a {
   text-indent: 13px;
   margin-top: 7px;
 }
-.news h6 {
+.news p{
   font-size: 12px;
   font-family: 'Roboto', serif;
   color: #61728d;
@@ -545,7 +545,7 @@ a {
   border-right: 1px solid black;
   padding: 0 15px;
 }
-.news h6:last-child {
+.news p:last-child {
   border-right: none;
 }
 .newsblock img {
