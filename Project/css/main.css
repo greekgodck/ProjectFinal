@@ -621,8 +621,9 @@ a {
   background-image:url("../images/guy1.jpg");
   background-size:contain;
   position: absolute;
-  left: 130px;
+  left: 50%;
   margin-top: 37px;
+  transform: translateX(-50%);
 }
 .testimonial .images {
   display: inline-flex;
@@ -937,9 +938,6 @@ a {
     }
     .newsinfo h6:first-child {
       padding-left: 194px;
-    }
-    .guy {
-      left: 329px;
     }
     .testimonial .images {
        display: inline-flex;
@@ -1282,7 +1280,7 @@ a {
     background-color: white;
     border-radius: 82%;
     position: relative;
-    left: 47px;
+    left: 114px;
     top: 60px;
     background-repeat: no-repeat;
     }
