@@ -933,10 +933,10 @@ a {
     .newsinfo {
       margin-left: 25px;
     }
-    .newsinfo h6 {
+    .newsinfo p {
       font-size: 16px;
     }
-    .newsinfo h6:first-child {
+    .newsinfo p:first-child {
       padding-left: 194px;
     }
     .testimonial .images {
@@ -1257,13 +1257,13 @@ a {
     .newsbox {
       width: 376px;
     }
-    .news h6 {
+    .news p {
       padding: 0px 11px;
     }
     .newsinfo {
       text-align: center;
     }
-    .newsinfo h6:first-child {
+    .newsinfo p:first-child {
       padding-left: 0px;
     }
     .testimonial {
