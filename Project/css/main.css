@@ -1374,7 +1374,6 @@ a {
     .button5:hover {
       background-color: #fff;
       color: #ffb400;
-      border:2px solid #ffb400;
       transition:.3s;
     }
     .button4:hover {
