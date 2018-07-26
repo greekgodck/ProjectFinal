@@ -1356,27 +1356,32 @@ a {
     .button1:hover {
       background-color: #fff;
       color: #ffb400;
-      border:2px solid #ffb400
+      border:2px solid #ffb400;
+      transition:.3s;
     }
     .button2:hover {
       background-image: unset;
       background-color: #fff;
       color: #ffb400;
+      transition:.3s;
     }
     .button3:hover {
       background-color: #fff;
       color: #ffb400;
-      border:2px solid #ffb400
+      border:2px solid #ffb400;
+      transition:.3s;
     }
     .button5:hover {
       background-color: #fff;
       color: #ffb400;
-      border:2px solid #ffb400
+      border:2px solid #ffb400;
+      transition:.3s;
     }
     .button4:hover {
       background-color: #ffb400;
       color: #fff;
       border:2px solid #fff;
+      transition:.3s;
     }
      .base {
       margin-top: -2px;
