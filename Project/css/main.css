@@ -929,7 +929,7 @@ a {
     height: 400px;
     }
     .newsbox {
-      margin-left: 19px;
+      margin-left: 24px;
     }
     .newsinfo {
       margin-left: 25px;
@@ -1257,6 +1257,7 @@ a {
     }
     .newsbox {
       width: 376px;
+      margin-right: 4px;
     }
     .news p {
       padding: 0px 11px;
