@@ -1411,4 +1411,7 @@
     .news3  figure {
       width: 400px;
     }
+  .shape4 p:nth-child(2) {
+    padding: 10px;
+  }
 }
