@@ -1409,4 +1409,10 @@
     .news3  figure {
       width: 400px;
     }
+   .news1 .newsinfo {
+      width: 368px;
+    }
+    .news2 .newsinfo {
+        width: 368px;
+     }
 }
