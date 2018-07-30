@@ -187,7 +187,7 @@ a {
 }
 .button1 {
   background-color: #ffb400;
-  border: none;
+  border:2px solid #ffb400;
   color: white;
   padding: 15px 32px;
   text-align: center;
@@ -818,7 +818,7 @@ a {
   font-size: 14px;
   margin: 0 auto;
   margin-left: 13px;
-  padding-top: 10px;
+  padding-top: 15px;
   margin-top: 30px;
   margin-bottom: 50px;
 }
@@ -1356,7 +1356,6 @@ a {
     .button1:hover {
       background-color: #fff;
       color: #ffb400;
-      border:2px solid #ffb400;
       transition:.3s;
     }
     .button2:hover {
