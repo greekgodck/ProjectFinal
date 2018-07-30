@@ -1400,7 +1400,13 @@
      .base {
       margin-top: -2px;
     }
-  .news3  figure {
-    width: 408px;
-  }
+    .news1 figure {
+      width: 400px;
+    }
+    .news2 figure {
+        width: 400px;
+     }
+    .news3  figure {
+      width: 400px;
+    }
 }
