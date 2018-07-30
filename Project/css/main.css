@@ -10,7 +10,6 @@
     background-color: transparent;
     text-decoration: none;
   }
-
 .pc {
   display: none;
 }
@@ -31,7 +30,6 @@
 .info ul {
   overflow: hidden;
   margin-top: 10px;
-
 }
 .info h2 {
   font-size: 14px;
@@ -208,7 +206,6 @@
   width: 93%;
   margin: 0 auto;
   margin-top: 50px;
-
 }
 .shape3 h3 {
   color: white;
@@ -216,7 +213,6 @@
   font-size: 16px;
   font-weight: normal;
   padding-top: 23px;
-
 }
 .button2 {
   background-image: url(../images/banner2.jpg);
@@ -521,7 +517,7 @@
   color: #213047;
   text-align: center;
 }
-.news h5{
+.news h5 {
   font-size: 14px;
   font-family: 'Roboto', serif;
   font-weight: 400;
@@ -530,7 +526,7 @@
   margin-left: 13px;
   margin-top: 15px;
 }
-.news h4{
+.news h4 {
   font-size: 16px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
@@ -538,7 +534,7 @@
   text-indent: 13px;
   margin-top: 7px;
 }
-.news p{
+.news p {
   font-size: 12px;
   font-family: 'Roboto', serif;
   color: #61728d;
