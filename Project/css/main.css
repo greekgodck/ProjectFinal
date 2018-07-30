@@ -1128,6 +1128,15 @@
     .work img {
     padding-left: 0px;
     }
+  
+    .works img {
+    opacity: 0.8;
+    }
+
+    .works img:hover {
+     opacity: 1;
+     transition: 0.3s;
+    }
     .shape4 {
       min-height: 125px;
       height: unset;
