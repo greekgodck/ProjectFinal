@@ -488,7 +488,7 @@
 .button4 {
   background-color:white;
   font-family: 'Montserrat', sans-serif;
-  border: none;
+  border:2px solid #fff;
   color: #ffb400;
   padding: 15px 32px;
   text-align: center;
@@ -1374,7 +1374,6 @@
     .button4:hover {
       background-color: #ffb400;
       color: #fff;
-      border:2px solid #fff;
       transition:.3s;
     }
      .base {
