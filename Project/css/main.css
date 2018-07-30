@@ -1259,16 +1259,18 @@
     }
     .newsblock img{
       height: 235px;
+      padding-left: 0;
     }
     .newsbox {
       width: 376px;
-      margin-right: 4px;
+      margin-left: 0;
     }
     .news p {
       padding: 0px 11px;
     }
     .newsinfo {
       text-align: center;
+      margin-left: 0;
     }
     .newsinfo p:first-child {
       padding-left: 0px;
