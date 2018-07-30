@@ -66,7 +66,7 @@
   display:block;
   border:none;
   border-bottom: 1px solid rgba(255,255,255, 0.5);
-  background-color:#213047;
+  background-color: #213047;
   font-size: 19px;
   color: white;
   font-family: 'Montserrat', sans-serif;
@@ -106,7 +106,7 @@
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
-    color: #ffff;
+    color: #fff;
     display: block;
     text-align: left;
 }
@@ -152,9 +152,9 @@
 }
 .shape2 {
   width: 500px;
-  height:223px;
+  height: 223px;
   background: rgba(0, 0, 0, 0.5);
-  width:93%;
+  width: 93%;
   margin: 0 auto;
   padding-top: 20px;
   border-bottom: solid 4px #ffb400;
@@ -193,14 +193,10 @@
   display: inline-block;
   font-size: 14px;
   font-weight: bold;
-  /* position: absolute;
-  left: 11px;
-  bottom: 198px; */
   margin-top: 25px;
 }
 .shape3 {
-  /* width:500px; */
-  height:141px;
+  height: 141px;
   background-image: url("../images/banner2.jpg");
   text-align: center;
   width: 93%;
@@ -440,7 +436,7 @@
 .button3 {
   background-color: #ffb400;
   font-family: 'Montserrat', sans-serif;
-  border:2px solid #ffb400;
+  border: 2px solid #ffb400;
   color: white;
   padding: 15px 32px;
   text-align: center;
