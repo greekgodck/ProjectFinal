@@ -1262,13 +1262,14 @@
       padding-left: 0;
     }
     .newsbox {
-      width: 376px;
+      width: 380px;
       margin-left: 0;
     }
     .news p {
       padding: 0px 11px;
     }
     .newsinfo {
+      width: 380px;
       text-align: center;
       margin-left: 0;
     }
