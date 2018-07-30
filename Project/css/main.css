@@ -1276,7 +1276,7 @@
       padding: 0px 11px;
     }
     .newsinfo {
-      width: 380px;
+      width: 373px;
       text-align: center;
       margin-left: 0;
       -webkit-box-shadow: 1px 2px 2px 0px 0px rgba(181,179,181,1);
@@ -1409,10 +1409,4 @@
     .news3  figure {
       width: 400px;
     }
-   .news1 .newsinfo {
-      width: 368px;
-    }
-    .news2 .newsinfo {
-        width: 368px;
-     }
 }
